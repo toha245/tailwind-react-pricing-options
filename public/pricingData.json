@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gym-001",
+    "name": "Starter",
+    "price": "$25/mo",
+    "info": "Essential access for those who want a straightforward, no-frills workout.",
+    "features": [
+      "Access during staffed hours",
+      "Full cardio & strength floor",
+      "Initial fitness assessment",
+      "Digital workout tracking",
+      "Access to basic locker rooms"
+    ]
+  },
+  {
+    "id": "gym-002",
+    "name": "Power",
+    "price": "$55/mo",
+    "popular": true,
+    "info": "Our most popular choice, offering total flexibility and group motivation.",
+    "features": [
+      "24/7 secure gym access",
+      "Unlimited group HIIT & Yoga classes",
+      "Sauna & Infrared recovery room",
+      "Personal locker with keypad lock",
+      "15% Discount on gym apparel"
+    ]
+  },
+  {
+    "id": "gym-003",
+    "name": "Ultimate",
+    "price": "$95/mo",
+    "info": "The premium experience with dedicated coaching and luxury recovery perks.",
+    "features": [
+      "All benefits of the Power plan",
+      "1 Monthly 1-on-1 personal training session",
+      "Custom nutrition & meal planning",
+      "Daily fresh towel service",
+      "VIP lounge & smoothie bar access"
+    ]
+  }
+]
