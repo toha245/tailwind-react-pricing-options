@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "marks": {
+      "physics": 85,
+      "chemistry": 78,
+      "math": 92
+    },
+    "total": 255
+  },
+  {
+    "id": 2,
+    "name": "Beatrice Kim",
+    "marks": {
+      "physics": 92,
+      "chemistry": 88,
+      "math": 95
+    },
+    "total": 275
+  },
+  {
+    "id": 3,
+    "name": "Carlos Gomez",
+    "marks": {
+      "physics": 74,
+      "chemistry": 82,
+      "math": 68
+    },
+    "total": 224
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "marks": {
+      "physics": 88,
+      "chemistry": 91,
+      "math": 84
+    },
+    "total": 263
+  },
+  {
+    "id": 5,
+    "name": "Ethan Hunt",
+    "marks": {
+      "physics": 65,
+      "chemistry": 70,
+      "math": 72
+    },
+    "total": 207
+  },
+  {
+    "id": 6,
+    "name": "Fatima Aziz",
+    "marks": {
+      "physics": 95,
+      "chemistry": 94,
+      "math": 98
+    },
+    "total": 287
+  },
+  {
+    "id": 7,
+    "name": "George Miller",
+    "marks": {
+      "physics": 80,
+      "chemistry": 75,
+      "math": 81
+    },
+    "total": 236
+  },
+  {
+    "id": 8,
+    "name": "Hina Sato",
+    "marks": {
+      "physics": 72,
+      "chemistry": 85,
+      "math": 89
+    },
+    "total": 246
+  },
+  {
+    "id": 9,
+    "name": "Isaac Newton",
+    "marks": {
+      "physics": 99,
+      "chemistry": 90,
+      "math": 100
+    },
+    "total": 289
+  },
+  {
+    "id": 10,
+    "name": "Jasmine Lee",
+    "marks": {
+      "physics": 78,
+      "chemistry": 80,
+      "math": 76
+    },
+    "total": 234
+  }
+]
